@@ -1,0 +1,25 @@
+{
+  "name": "racketeer",
+  "version": "1.0.0",
+  "description": "API documentation:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnWestwig/racketeer.git"
+  },
+  "author": "John Westwig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnWestwig/racketeer/issues"
+  },
+  "homepage": "https://github.com/JohnWestwig/racketeer#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "knex": "^0.13.0",
+    "mysql": "^2.13.0",
+    "sequelize": "^4.2.0"
+  }
+}
